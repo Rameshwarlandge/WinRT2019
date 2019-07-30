@@ -1,0 +1,2 @@
+﻿Mywindow.obj : error LNK2001: unresolved external symbol "long __stdcall Wndproc(struct HWND__ *,unsigned int,unsigned int,long)" (?Wndproc@@YGJPAUHWND__@@IIJ@Z)
+c:\users\ram\source\repos\Mywindow\Release\Mywindow.exe : fatal error LNK1120: 1 unresolved externals
