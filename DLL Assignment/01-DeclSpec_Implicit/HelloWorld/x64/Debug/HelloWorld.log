@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+HelloWorld.obj : error LNK2019: unresolved external symbol MY_MakeSquare referenced in function "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z)
+MY_MATH.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\RAM\Desktop\WinRT2019-master\1\WinRT2019-master\WinRT2019-master\IDE\DLL_Related\DLL_Client\01-DeclSpec_Implicit\HelloWorld\x64\Debug\HelloWorld.exe : fatal error LNK1120: 1 unresolved externals

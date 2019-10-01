@@ -1,0 +1,4 @@
+LIBRARY DEF
+
+EXPORTS 
+		MY_MakeSquare
